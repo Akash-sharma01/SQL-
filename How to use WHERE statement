@@ -1,0 +1,15 @@
+where statement
+=, <>, <, <=, >, >= And, or, LIKE, Null, Not Null, In
+*/
+
+--SELECT *
+--FROM EmployeeDemographics
+--WHERE FirstName <> 'Pam'
+--WHERE FirstName = 'Pam'
+--WHERE Age > 30
+--WHERE Age <= 32 AND Gender = 'Male'
+--WHERE Age <= 32 OR Gender = 'Male'
+--WHERE LastName LIKE '%S%'
+--WHERE FirstName is NULL
+--WHERE FirstName is NOT NULL
+--WHERE FirstName IN('pam', 'Michael')
