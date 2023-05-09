@@ -1,0 +1,15 @@
+--GROUP BY
+
+--SELECT JobTitle,COUNT(JobTitle) FROM EmployeeSalary GROUP BY JobTitle;
+
+--Avg salary per jobtitle
+--SELECT Jobtitle, AVG(salary) FROM EmployeeSalary GROUP BY JobTitle;
+
+----MIN salary per jobtitle
+--SELECT Jobtitle, MIN(salary) FROM EmployeeSalary GROUP BY JobTitle;
+
+----MAX salary per jobtitle
+--SELECT JObtitle, MAX(salary) FROM EmployeeSalary GROUP BY JobTitle;
+
+----SUM
+--SELECT JobTitle, SUM(salary) FROM EmployeeSalary GROUP BY JobTitle;
