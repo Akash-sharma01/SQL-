@@ -1,0 +1,3 @@
+--Sorting using order by:
+--SELECT * from EmployeeSalary ORDER BY Salary; (sort in Ascending order, by default it sort in ascending order)
+--SELECT * from EmployeeSalary ORDER BY Salary DESC; (sort in Descending order)
