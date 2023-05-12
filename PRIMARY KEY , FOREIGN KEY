@@ -1,0 +1,15 @@
+--CREATE TABLE CUSTOMER(
+--id integer PRIMARY KEY,
+--name varchar(255),
+--Adress varchar(255),
+--Gender char(2),
+--City varchar(255),
+--Pincode integer,
+--)
+
+--CREATE TABLE order_details(
+--order_id integer PRIMARY KEY,
+--delivery_date DATE,
+--cust_id INT,
+--FOREIGN KEY(cust_id) references customer(id)
+--);
